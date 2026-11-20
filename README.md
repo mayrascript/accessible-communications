@@ -1,13 +1,24 @@
 # Accesibilidad en comunicaciones
 
-## Cómo usarlo
+## Instalar
 
-- **En un agente compatible con Agent Skills:** copia la carpeta [`accesibilidad-comunicaciones/`](accesibilidad-comunicaciones/) completa, con su `SKILL.md`, al directorio de skills de tu agente. El directorio y la forma de activación dependen de cada herramienta. En Codex, puedes elegir el skill por nombre cuando le pidas revisar una comunicación.
-- **En otros asistentes o modelos:** pega el contenido de [`SKILL.md`](accesibilidad-comunicaciones/SKILL.md) como instrucciones para la tarea y adjunta el material que quieres revisar. Si vas a planificar, auditar o coordinar un evento, incluye también el [checklist operativo](accesibilidad-comunicaciones/references/eventos.md). Esto no instala el skill ni habilita su activación automática.
+Con [Skills CLI](https://github.com/vercel-labs/skills), desde tu proyecto:
 
-Ejemplo: «Revisa este anuncio. Confirma qué información está solo en la imagen y no prometas interpretación ni subtítulos que aún no estén confirmados».
+```sh
+npx skills add mayrascript/accesibilidad-comunicaciones --skill accesibilidad-comunicaciones
+```
 
-No requiere dependencias, scripts ni credenciales.
+Selecciona tu agente. Añade `-g` para instalar para tu usuario, o `-a codex` para elegir Codex. Para ver qué se ofrece sin instalar, ejecuta `npx skills add mayrascript/accesibilidad-comunicaciones --list`.
+
+Con [GitHub CLI](https://cli.github.com/manual/gh_skill_install) (función en vista previa):
+
+```sh
+gh skill install mayrascript/accesibilidad-comunicaciones accesibilidad-comunicaciones --agent codex --scope project
+```
+
+**Instalador de Codex:** pídele a Codex: «Usa `$skill-installer` para instalar https://github.com/mayrascript/accesibilidad-comunicaciones/tree/main/accesibilidad-comunicaciones». Luego invoca `$accesibilidad-comunicaciones` al revisar un material.
+
+**Instalación manual:** copia [la carpeta del skill](accesibilidad-comunicaciones/) completa al directorio de skills de tu agente. Sigue el [estándar Agent Skills](https://agentskills.io/specification). Si tu asistente no admite skills, pega [`SKILL.md`](accesibilidad-comunicaciones/SKILL.md) como instrucciones. Si vas a coordinar o auditar un evento, adjunta también [el checklist](accesibilidad-comunicaciones/references/eventos.md).
 
 ## Créditos y licencia
 

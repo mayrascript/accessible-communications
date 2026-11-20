@@ -1,6 +1,7 @@
 ---
 name: accesibilidad-comunicaciones
 description: Usa este skill al redactar o revisar correos, anuncios, formularios, agendas, artes, presentaciones y videos accesibles, o al planificar, auditar o coordinar accesibilidad en eventos tech. Cubre texto alternativo, subtítulos e interpretación para personas Sordas e hipoacúsicas.
+license: CC-BY-4.0
 ---
 
 # Accesibilidad en comunicaciones
