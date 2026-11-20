@@ -1,5 +1,7 @@
 # Accesibilidad en comunicaciones
 
+Skill en español para redactar y revisar correos, formularios, agendas, artes, presentaciones y videos. Incluye un checklist operativo para eventos tecnológicos presenciales, virtuales e híbridos, con foco en personas Sordas e hipoacúsicas.
+
 ## Instalar
 
 Con [Skills CLI](https://github.com/vercel-labs/skills), desde tu proyecto:
