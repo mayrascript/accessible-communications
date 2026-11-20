@@ -1,11 +1,11 @@
 ---
 name: accesibilidad-comunicaciones
-description: Aplica accesibilidad editorial al redactar o revisar comunicaciones, formularios, agendas, artes, presentaciones y videos. Incluye un checklist operativo para eventos tech presenciales, virtuales o híbridos, con enfoque en personas Sordas e hipoacúsicas.
+description: Usa este skill al redactar o revisar correos, anuncios, formularios, agendas, artes, presentaciones y videos accesibles, o al planificar, auditar o coordinar accesibilidad en eventos tech. Cubre texto alternativo, subtítulos e interpretación para personas Sordas e hipoacúsicas.
 ---
 
 # Accesibilidad en comunicaciones
 
-Aplica una revisión breve según el canal desde el primer borrador. Usa la lista operativa completa cuando se pida planificar, auditar o coordinar un evento. En un correo cotidiano, mejora el texto sin añadir una sección de accesibilidad que no haga falta.
+Aplica las reglas del canal desde el primer borrador. En un correo cotidiano, mejora el texto sin añadir una sección de accesibilidad que no haga falta. Para planificar, auditar o coordinar un evento, consulta también [el checklist operativo](references/eventos.md).
 
 ## Antes de entregar una comunicación
 
@@ -15,12 +15,11 @@ Aplica una revisión breve según el canal desde el primer borrador. Usa la list
 - **Audio y video:** añade equivalente escrito; proporciona subtítulos de alto contraste en el video, revisados por una persona para corregir términos técnicos, nombres y omisiones antes de publicar. Una transcripción o subtítulos automáticos no sustituyen la interpretación cuando se necesita.
 - **Anuncios y registro:** anuncia solo apoyos confirmados y especifica lengua, sesiones/salas, horario y modalidad cuando se conozcan. No uses «100 % inclusivo». Incluye canal escrito y una pregunta opcional sobre ajustes (interpretación, subtítulos en directo, otro), sin pedir diagnóstico ni certificado. Comparte las necesidades solo con quien las coordina. Si un apoyo está pendiente, no lo prometas ni publiques datos personales.
 
-## Si estás coordinando un evento
+## Verifica antes de entregar
 
-1. **4–8 semanas antes:** planifica presupuesto, responsable y cobertura por sala para conferencias, talleres y networking. Acordar lengua y ajustes directamente con la persona, sin encargarle la logística. Verificar experiencia técnica de intérpretes profesionales; para sesiones interpretadas de más de 30 minutos, la guía recomienda una dupla por sala con relevos cada 20–30 minutos.
-2. **1–2 semanas antes:** coordina con ponentes y producción. Entrega agenda, diapositivas, notas y glosario con 48–72 h de anticipación. Ensaya ubicación, fondo neutro, iluminación frontal, micrófonos, contraste y línea visual entre ponente, intérprete y pantalla desde los asientos reservados. En remoto, comprueba que la audiencia pueda ver al intérprete y activar los subtítulos sin depender del anfitrión. Prevé alertas visuales y un procedimiento de evacuación con la sede.
-3. **Durante:** usa micrófonos también para preguntas del público o repítelas antes de contestar. Habla directamente con la persona, da tiempo a la interpretación, describe lo que señalas y respeta relevos y pausas. Si falla el subtitulado, activa el respaldo previsto, comunica la incidencia por texto y confirma el acceso o pausa la sesión afectada. No traslades la contingencia al teléfono de la persona ni sustituyas al intérprete profesional por voluntariado o avatares de IA.
-4. **Después:** revisa subtítulos y materiales antes de publicarlos y habilita un canal escrito para retroalimentación. Registra pendientes como «por verificar» con responsable y fecha si existen. Separa comprobaciones realizadas de recomendaciones.
+- ¿El propósito, la acción y los datos clave del material se encuentran en texto?
+- ¿Los apoyos anunciados están confirmados y los pendientes no se presentan como disponibles?
+- ¿Las comprobaciones que no hiciste, como probar subtítulos o el orden de lectura, están marcadas como «por verificar» cuando son relevantes?
 
 ## Alcance
 
